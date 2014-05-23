@@ -1,0 +1,4 @@
+repositoryA
+===========
+
+Main repository
