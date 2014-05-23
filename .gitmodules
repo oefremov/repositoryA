@@ -1,0 +1,3 @@
+[submodule "repositoryB"]
+	path = repositoryB
+	url = https://github.com/oefremov/repositoryB.git
